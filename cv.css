@@ -1,0 +1,42 @@
+.page {
+    width: 780px;
+    margin: auto;
+    font-size: 16px;
+  }
+.photo {
+  width : 130px; height : 130px;
+  border: none;
+  -moz-border-radius : 75px;
+  -webkit-border-radius : 75px;
+  border-radius : 75px;
+}
+.section1{
+    float: left;
+  }
+  .section2{
+    float:right;
+  }
+  .section{
+      margin-bottom: 40px;
+      text-align: justify;
+  }
+  .contact{
+      margin-top: 150px;
+  }
+  .skill2{
+    float:right;
+    margin-top: -90px;
+  }
+  h3{
+      font-size: 20px;
+      color: #024979;
+      border-bottom: 2px solid #8e9191;
+  }
+  .name{
+    font-size: 20px;
+    color:#024979;
+  }
+  .text{
+      font-weight: bold;
+      font-size: 15px;
+  }
